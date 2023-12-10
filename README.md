@@ -9,7 +9,7 @@ Mixed Reality Shooter is a small first-person shooter game developed using the M
 
 The main mechanic of the game involves boxes that drop from the sky at an increasing frequency over time. The player's objective is to shoot these boxes to earn points.
 
-
-![Game Screenshot](./MRtest/preview1.jpg)
+<!-- 
+![Game Screenshot](./MRtest/preview1.jpg) -->
 
 
